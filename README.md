@@ -1,2 +1,2 @@
 # Fontana-di-Trevi
-Página creada par ala materia de Diseño de Información y Desarrollo de sitios y Páginas web
+Página creada para la materia de Diseño de Información y Desarrollo de sitios y Páginas web
